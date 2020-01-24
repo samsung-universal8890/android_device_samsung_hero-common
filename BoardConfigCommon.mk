@@ -86,4 +86,4 @@ BOARD_SECCOMP_POLICY += device/samsung/hero-common/seccomp
 
 # Inherit from the proprietary version
 -include vendor/samsung/hero-common/BoardConfigVendor.mk
--include vendor/seal/seal/BoardConfigVendor.mk
+-include vendor/samsung/universal8890/BoardConfigVendor.mk

@@ -117,4 +117,4 @@ PRODUCT_HOST_PACKAGES += \
 
 # call the proprietary setup
 $(call inherit-product, vendor/samsung/hero-common/hero-common-vendor.mk)
-$(call inherit-product, vendor/seal/seal/seal-common-vendor.mk)
+$(call inherit-product, vendor/samsung/universal8890/universal8890-vendor.mk)
